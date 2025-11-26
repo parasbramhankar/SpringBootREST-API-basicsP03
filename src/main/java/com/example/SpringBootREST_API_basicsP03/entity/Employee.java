@@ -30,6 +30,7 @@ public class Employee {
         return designation;
     }
 
+
     public void setDesignation(String designation) {
         this.designation = designation;
     }
